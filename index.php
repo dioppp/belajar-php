@@ -26,7 +26,7 @@
                 <a href="html/dashboard.html">Dashboard</a>
             </li>
             <li>
-                <a href="html/product-responsive.html">Product</a>
+                <a href="php/product.php">Product</a>
             </li>
             <li>
                 <a href="html/jsdasar.html">JavaScript Fundamental</a>
@@ -35,7 +35,7 @@
                 <a href="html/form.html">Form Register</a>
             </li>
             <li>
-                <a class="button" href="html/login-layout.html">Login</a>
+                <a class="button" href="php/login.php">Login</a>
             </li>
         </ul>
         
